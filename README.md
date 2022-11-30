@@ -2,8 +2,8 @@
 <h3 align="center">Studying how we can change the future with data</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=italovinicius18&show_icons=true&locale=en" alt="italovinicius18" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=italovinicius18&show_icons=true&locale=en&layout=compact" alt="italovinicius18" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=italovinicius18&show_icons=true&locale=en&layout=compact" alt="italovinicius18" /></p>
 
 
 - 🔭 I’m currently working on Embraer **Data Ecosystem**
