@@ -21,7 +21,8 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on Embraer **Data Ecosystem**
+- 🔭 I’m currently working on A3Data as a Data engineer
+  - Already created data architectures and pipelines for Hypofarma and Farmax
 
 - 👯 I’m looking to collaborate on **Data projects**
 
