@@ -30,7 +30,7 @@
 
 <h3 align="left">Education:</h3>
 
-I'm studying Software engineering on Universidade de Brasília.
+Software engineering on Universidade de Brasília.
 
 <h3 align="left">Remote education:</h3>
 
